@@ -1,7 +1,1 @@
 qiaoxiang
-<<<<<<< HEAD
-
-world
-=======
-hello
->>>>>>> 6876d2dfbea8084f499fa469ad2a1d9c9d760a12
